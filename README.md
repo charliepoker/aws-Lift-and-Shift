@@ -44,7 +44,7 @@
 
 ## Stack Architecture
 
-![Architecture](./images/architecture.png)
+![Architecture](./images/architecture.jpg)
 
 ## Create Key pairs
 
